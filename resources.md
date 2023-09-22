@@ -5,7 +5,7 @@
 Here are resources you can use:
 
 1. [50 macOS Tips and Tricks Using Terminal - YouTube](https://www.youtube.com/watch?v=qOrlYzqXPa8)
-2. [Git and GitHub, The Practical Guide- Udemy](https://anniecannons.udemy.com/course/git-github-practical-guide/?isDefaultPlaying=#overview)
+2. [Git and GitHub, The Practical Guide - Udemy](https://anniecannons.udemy.com/course/git-github-practical-guide/?isDefaultPlaying=#overview)
 3. [AnnieCannons Terminal and Command Line Slides](https://www.canva.com/design/DAFmICM4CfY/bIkVOOKrMgT78NOs0R5bAQ/edit)
 
 #### Git
@@ -16,8 +16,6 @@ Here are resources you can use:
 2. [Git and Github Learning Resources - GitHub](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 3. [Git Exercises - Coderefinery](https://coderefinery.github.io/git-intro/exercises/)
 4. [The Git and Github Bootcamp - Udemy](https://anniecannons.udemy.com/course/git-and-github-bootcamp/)
-3. [Git exercises](https://coderefinery.github.io/git-intro/exercises/)
-4. [Github Course](https://anniecannons.udemy.com/course/git-and-github-bootcamp/)
 
 #### HTML
 
@@ -36,7 +34,7 @@ Here are resources you can use:
 
 Here are resources you can use:
 
-1. [AnnieCannons CSS Slides](https://www.canva.com/design/DAFnIubtXC8/iFIr3Uf4Hlv4Tp80z_JLGA/edit)
+1. [AnnieCannons Intro to CSS Slides](https://www.canva.com/design/DAFnIubtXC8/iFIr3Uf4Hlv4Tp80z_JLGA/edit)
 2. [Getting Started with CSS - Frontend Masters Class](https://frontendmasters.com/courses/getting-started-css/)
 3. [Learn CSS - YouTube](https://www.youtube.com/watch?v=1PnVor36_40)
 4. [How to Use Google Fonts in a Website Project - YouTube](https://www.youtube.com/watch?v=eLY5KSXcQ6c)
